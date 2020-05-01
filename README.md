@@ -2,6 +2,7 @@
 Coursera - Graded Assignment of Introduction to Software Product Management by University of Alberta
 
 About this Course
+
 This course highlights the importance and role of software product management. It also provides an overview of the specialization, as well as its goals, structure, and expectations. The course explains the value of process, requirements, planning, and monitoring in producing better software.
 
 WEEK 1
